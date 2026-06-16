@@ -1,0 +1,81 @@
+id_produto,nome_produto,categoria,preco_custo
+1,Romance PRO,eletrônicos,13.95
+2,Fone PRO,eletrônicos,249.48
+3,Arroz,eletrônicos,93.52
+4,Camiseta,eletrônicos,186.4
+5,Fone PREMIUM,eletrônicos,"R$ 373,36"
+6,Calça Jeans,eletrônicos,"R$ 361,87"
+7,Camiseta,Eletrônicos,157.49
+8,Notebook  ,Alimentos,"R$ 273,56"
+9,Feijão,Alimentos,256.86
+10,Carregador,Eletrônicos,319.98
+11,Carregador ,VESTUÁRIO,128.98
+12,Carregador,VESTUÁRIO,296.99
+13,Fone ,VESTUÁRIO,"R$ 489,55"
+14,Mesa,Vestuário,245.94
+15,Carregador,Eletrônicos,453.52
+16,Camiseta,Vestuário,"R$ 220,03"
+17,Calça Jeans,Alimentos,"R$ 178,29"
+18,Camiseta PREMIUM,Alimentos,324.33
+19,Romance,Vestuário,"R$ 336,12"
+20,Romance,Vestuário,432.76
+21,Cadeiranan,???,118.94
+22,Notebook,???,252.1
+23,Mesa,???,288.14
+24,Calça Jeans,Vestuário,385.43
+25,Carregador,Eletrônicos,26.58
+26,Ficção Científica,Livros,497.3
+27,Smartphone,Vestuário,237.62
+28,Ficção Científica PRO,Casa,143.38
+29,Feijão,Vestuário,442.33
+30,Calça Jeans,Livros,"R$ 375,12"
+31,Notebook PRO,,476.77
+32,Notebook,Eletrônicos,168.72
+33,Calça Jeans,Vestuário,278.62
+34,Ficção Científica,Alimentos,288.28
+35,Carregador,Livros,490.26
+36,Ficção Científica PRO,Vestuário,42.3
+37,Notebook,Eletrônicos,156.32
+38,Ficção Científica,Alimentos,99.5
+39,Carregador ,Livros,137.9
+40,Cadeira,Vestuário,"R$ 245,21"
+41,Smartphone,Eletrônicos,189.48
+42,Cadeira PRO,Casa,200.37
+43,Carregador,Vestuário,422.89
+44,Fone,Vestuário,465.36
+45,Ficção Científica  ,Livros,39.86
+46,Smartphone ,Alimentos,108.41
+47,Mesa,Alimentos,"R$ 337,22"
+48,Cadeira  ,Eletrônicos,182.53
+49,Cadeira ,Vestuário,130.81
+50,Notebook,Alimentos,151.17
+51,Romance,Eletrônicos,164.66
+52,Ficção Científica ,Eletrônicos,"R$ 425,09"
+53,Carregador ,Casa,"R$ 72,63"
+54,Fone,Vestuário,355.91
+55,Camiseta,Eletrônicos,"R$ 278,65"
+56,Camiseta PRO,Casa,151.77
+57,Mesa,Casa,212.79
+58,Romance,Alimentos,131.82
+59,Mesa,Livros,307.7
+60,Camiseta,Eletrônicos,"R$ 45,39"
+61,Romance,Eletrônicos,7.57
+62,Calça Jeans  ,Alimentos,315.81
+63,Romance ,Livros,101.17
+64,Fone,Livros,40.12
+65,Romance,Vestuário,201.41
+66,Feijão PREMIUM,Livros,30.13
+67,Mesa PRO,Livros,443.88
+68,Cadeira,Casa,"R$ 18,67"
+69,Carregador PRO,Livros,291.54
+70,Carregador,Alimentos,222.04
+71,Fone,Alimentos,337.65
+72,Romance PREMIUM,Vestuário,167.44
+73,Romance  ,Casa,81.75
+74,Smartphone,Casa,491.01
+75,Cadeira PRO,Eletrônicos,420.27
+76,Cadeira,Vestuário,430.9
+77,Feijão,Vestuário,128.87
+78,Cadeira,Vestuário,24.22
+79,Smartphone,Casa,155.12
+80,Carregador,Eletrônicos,270.86
