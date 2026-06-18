@@ -1,0 +1,22 @@
+id_venda,id_produto,id_cliente,data_venda,quantidade,preco_unitario,desconto_percent,frete,data_venda_formatada,nome_produto,categoria,preco_custo,nome_cliente,estado,email
+188,57,131,2024-07-06,200.0,590.35,0.0,5.02,06/07/2024,Mesa,Casa,212.79,João Silva,SP,cliente131@email.com
+265,60,36,2024-11-20,200.0,478.85,0.0,10.7,20/11/2024,Camiseta,Eletrônicos,45.39,Maria Souza,SP,cliente36@email.com
+277,4,221,2024-10-03,100.0,96.78,0.0,5.44,03/10/2024,Camiseta,Eletrônicos,186.4,Carlos José,SP,cliente221@email.com
+315,69,73,2024-11-10,100.0,126.52,10.0,4.17,10/11/2024,Carregador Pro,Livros,291.54,João Silva,SP,cliente73@email.com
+350,44,144,2025-12-15,9.0,530.71,0.0,17.15,15/12/2025,Fone,Vestuário,465.36,Carlos José,RJ,cliente144@email.com
+356,58,150,2024-12-21,100.0,175.21,5.0,7.25,21/12/2024,Romance,Alimentos,131.82,Carlos José,SP,cliente150@email.com
+380,67,198,2025-01-14,200.0,333.46,10.0,38.25,14/01/2025,Mesa Pro,Livros,443.88,Pedro  Santos,MG,cliente198@email.com
+457,28,293,2025-05-01,200.0,601.95,20.0,25.08,01/05/2025,Ficção Científica Pro,Casa,143.38,João Silva,SP,cliente293@email.com
+545,50,10,2025-06-28,100.0,230.69,0.0,44.17,28/06/2025,Notebook,Alimentos,151.17,,,
+558,35,9,2025-07-11,10.0,30.02,0.0,3.26,11/07/2025,Carregador,Livros,490.26,Ana Paula,RJ,cliente9@email.com
+560,67,23,2025-07-13,100.0,726.49,10.0,42.53,13/07/2025,Mesa Pro,Livros,443.88,Pedro  Santos,MG,cliente23@email.com
+592,51,220,2025-08-14,100.0,263.29,0.0,38.18,14/08/2025,Romance,Eletrônicos,164.66,Ana Paula,SP,cliente220@email.com
+709,7,182,2025-12-09,100.0,190.81,10.0,1.36,09/12/2025,Camiseta,Eletrônicos,157.49,Pedro  Santos,MG,cliente182@email.com
+710,13,103,2025-12-10,200.0,61.99,5.0,13.16,10/12/2025,Fone,Vestuário,489.55,João Silva,SP,cliente103@email.com
+724,79,194,2025-12-24,9.0,403.04,0.0,18.61,24/12/2025,Smartphone,Casa,155.12,Ana Paula,SP,cliente194@email.com
+793,66,17,2026-04-02,200.0,259.95,0.0,9.95,02/04/2026,Feijão Premium,Livros,30.13,Carlos José,SP,cliente17@email.com
+799,51,58,2026-03-09,100.0,545.43,15.0,43.54,09/03/2026,Romance,Eletrônicos,164.66,Ana Paula,SP,cliente58@email.com
+909,46,186,2026-06-27,100.0,414.18,0.0,1.93,27/06/2026,Smartphone,Alimentos,108.41,João Silva,SP,cliente186@email.com
+917,37,122,2026-06-05,200.0,624.64,5.0,19.22,05/06/2026,Notebook,Eletrônicos,156.32,Pedro  Santos,MG,cliente122@email.com
+969,11,151,2026-08-26,200.0,138.71,0.0,27.69,26/08/2026,Carregador,Vestuário,128.98,Ana Paula,ES,cliente151@email.com
+992,8,12,2026-09-18,200.0,200.24,0.0,36.31,18/09/2026,Notebook,Alimentos,273.56,Maria Souza,SP,cliente12@email.com
