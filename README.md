@@ -2,7 +2,7 @@
 
 Este projeto compreende o desenvolvimento de um **pipeline de dados (ETL)** e **análise estatística** avançada para um **e-commerce**, com o objetivo de **higienizar bases** de dados de vendas, identificar anomalias e extrair inteligência sobre a relação entre preço e volume de vendas.
 
-![Dashboard de Performance de Fundos](dashboard.png)
+![Dashboard de E-comerce](dashboard.png)
 
 # 🛠 Tecnologias Utilizadas
 
